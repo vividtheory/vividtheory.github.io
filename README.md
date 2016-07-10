@@ -1,1 +1,0 @@
-# vividtheory.github.io
