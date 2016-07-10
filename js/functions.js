@@ -70,7 +70,7 @@ function  workLoad() {
         newTitle = $this.find('strong').text(),
         newfolder = $this.find('.thumb-unit').data('folder'),
         spinner = '<div class="loader">Loading...</div>',
-        newHTML = 'work/'+ newfolder;
+        newHTML = 'work/'+ newfolder + '/';
       
     $('.installation-load').html(spinner).load(newHTML);
     $('.installation-title').text(newTitle);
@@ -87,7 +87,7 @@ function funLoad() {
         newTitle = $this.find('strong').text(),
         newfolder = $this.find('.funthumb-unit').data('folder'),
         spinner = '<div class="loader">Loading...</div>',
-        newHTML = 'fun_things/'+ newfolder;
+        newHTML = 'fun_things/'+ newfolder + '/';
       
     $('.funProject-load').html(spinner).load(newHTML);
     $('.funProject-title').text(newTitle);
