@@ -63,7 +63,7 @@ function funBelt() {
 
 function  workLoad() {
   
-  $.ajaxSetup({ cache: true });
+  $.ajaxSetup({ cache: true, dataType: "json"});
   
   $('.thumb-container label').click(function() {
     var $this = $(this),
@@ -80,7 +80,7 @@ function  workLoad() {
 
 function funLoad() {
    
-  $.ajaxSetup({ cache: true });
+  $.ajaxSetup({ cache: true, dataType: "json" });
   
   $('.funthumb-container label').click(function() {
     var $this = $(this),
