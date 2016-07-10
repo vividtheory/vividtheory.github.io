@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fun_things on Vivid Theory</title>
+    <link>http://vividtheory.github.io/fun_things/</link>
+    <description>Recent content in Fun_things on Vivid Theory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://vividtheory.github.io/fun_things/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://vividtheory.github.io/fun_things/circPendWave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vividtheory.github.io/fun_things/circPendWave/</guid>
+      <description>&lt;p&gt;A relatively straightforward gif created using Processing. Each individual dot oscillates sinusoidally along a fixed radial path. Adjacent dots have different oscillation frequencies, which results in interesting patterns.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/fun_things/circPendWave/circPendWave.gif&#34; alt=&#34;Closed Loop Pendulum Waves&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This follows the mathematics of the &amp;ldquo;pendulum wave&amp;rdquo; phenomenon, which is explained very well in this &lt;a href=&#34;http://www.physics.iitm.ac.in/~arul/PH1010/AJP000778PendulumWaves2.pdf&#34;&gt;paper&lt;/a&gt;. The difference here is that the pendula have been arranged in a circle, rather than a straight line. As a bonus, staring at the centre of the image induces an illusion effect, where some of the dots appear to have dark centres.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://vividtheory.github.io/fun_things/freddie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vividtheory.github.io/fun_things/freddie/</guid>
+      <description>&lt;p&gt;Takes some rigid stainless steel ducting, flexible vinyl ducting, LEDs&amp;hellip; and you have Freddie the robot.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/fun_things/freddie/lg/freddie_dj.jpg&#34; alt=&#34;Freddie and DJ&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Looks even cooler when viewed through diffraction glasses.
+&lt;img src=&#34;img/fun_things/freddie/lg/freddie_diffractionglasses.png&#34; alt=&#34;Freddie Glasses&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Straw hat optional.
+&lt;img src=&#34;img/fun_things/freddie/lg/freddie.png&#34; alt=&#34;Freddie and Jasper&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://vividtheory.github.io/fun_things/infMirrorCube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vividtheory.github.io/fun_things/infMirrorCube/</guid>
+      <description>&lt;p&gt;A cube was constructed with regular mirrors forming three adjacent faces, while the opposite faces were &lt;sup&gt;50&lt;/sup&gt;&amp;frasl;&lt;sub&gt;50&lt;/sub&gt; mirrors.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/fun_things/infMirrorCube/thumb.jpg&#34; alt=&#34;Infinity Mirror Cube&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Blue electro-luminescent wire was placed inside as an illumination source. The result is a mesmerizing kaleidoscopic infinity mirror effect. Since the faces are made from acrylic, pressing on them only makes the effect better. The photography leaves much to be desired, unfortunately.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://vividtheory.github.io/fun_things/plasmaxscope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vividtheory.github.io/fun_things/plasmaxscope/</guid>
+      <description>&lt;p&gt;What happens when you look at a plasma globe through a kaleidoscope? Magic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/fun_things/plasmaxscope/thumb.jpg&#34; alt=&#34;Plasma Globe x Kaleidoscope&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The tactile response of the plasma globe adds a unique flavour of interactivity. Using a &lt;a href=&#34;http://www.researchgate.net/publication/230909151_Design_optimization_of_a_tapered_mirror_for_microfocusing_optics&#34;&gt;tapered-mirror&lt;/a&gt; design for the kaleidoscope produces enchanting 3D effects, which take it to an entirely new level.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
