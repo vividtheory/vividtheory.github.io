@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vivid Theory</title>
-    <link>https://vividtheory.github.io/</link>
+    <link>//vividtheory.github.io/</link>
     <description>Recent content on Vivid Theory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://vividtheory.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//vividtheory.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>https://vividtheory.github.io/fun_things/circPendWave/</link>
+      <link>//vividtheory.github.io/fun_things/circPendWave/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vividtheory.github.io/fun_things/circPendWave/</guid>
+      <guid>//vividtheory.github.io/fun_things/circPendWave/</guid>
       <description>&lt;p&gt;A relatively straightforward gif created using Processing. Each individual dot oscillates sinusoidally along a fixed radial path. Adjacent dots have different oscillation frequencies, which results in interesting patterns.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;img/fun_things/circPendWave/circPendWave.gif&#34; alt=&#34;Closed Loop Pendulum Waves&#34; /&gt;&lt;/p&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title></title>
-      <link>https://vividtheory.github.io/fun_things/freddie/</link>
+      <link>//vividtheory.github.io/fun_things/freddie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vividtheory.github.io/fun_things/freddie/</guid>
+      <guid>//vividtheory.github.io/fun_things/freddie/</guid>
       <description>&lt;p&gt;Takes some rigid stainless steel ducting, flexible vinyl ducting, LEDs&amp;hellip; and you have Freddie the robot.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;img/fun_things/freddie/lg/freddie_dj.jpg&#34; alt=&#34;Freddie and DJ&#34; /&gt;&lt;/p&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title></title>
-      <link>https://vividtheory.github.io/fun_things/infMirrorCube/</link>
+      <link>//vividtheory.github.io/fun_things/infMirrorCube/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vividtheory.github.io/fun_things/infMirrorCube/</guid>
+      <guid>//vividtheory.github.io/fun_things/infMirrorCube/</guid>
       <description>&lt;p&gt;A cube was constructed with regular mirrors forming three adjacent faces, while the opposite faces were &lt;sup&gt;50&lt;/sup&gt;&amp;frasl;&lt;sub&gt;50&lt;/sub&gt; mirrors.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;img/fun_things/infMirrorCube/thumb.jpg&#34; alt=&#34;Infinity Mirror Cube&#34; /&gt;&lt;/p&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title></title>
-      <link>https://vividtheory.github.io/fun_things/plasmaxscope/</link>
+      <link>//vividtheory.github.io/fun_things/plasmaxscope/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vividtheory.github.io/fun_things/plasmaxscope/</guid>
+      <guid>//vividtheory.github.io/fun_things/plasmaxscope/</guid>
       <description>&lt;p&gt;What happens when you look at a plasma globe through a kaleidoscope? Magic.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;img/fun_things/plasmaxscope/thumb.jpg&#34; alt=&#34;Plasma Globe x Kaleidoscope&#34; /&gt;&lt;/p&gt;
@@ -70,10 +70,10 @@
     
     <item>
       <title></title>
-      <link>https://vividtheory.github.io/work/VLT/</link>
+      <link>//vividtheory.github.io/work/VLT/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vividtheory.github.io/work/VLT/</guid>
+      <guid>//vividtheory.github.io/work/VLT/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/installations/VLT/lg/VLT_polefolder_canopy2.jpg&#34; alt=&#34;Vivid Light Tubes&#34; /&gt;
 Underground parties, DJ nights, Nature Nocturne&amp;hellip; the vivid light tubes are becoming a familiar sight around some circles of the Ottawa nightlife scene.  The combination of programmable LEDs, a dazzling cover material, and unique programming produce some captivating effects.  Just check out some of these &lt;a href=&#34;https://vimeo.com/user51003445/videos&#34;&gt;videos&lt;/a&gt;.
 &lt;img src=&#34;img/installations/VLT/fullTest_small.gif&#34; alt=&#34;Vivid Light Tubes&#34; /&gt;&lt;/p&gt;
@@ -89,10 +89,10 @@ The individually addressable LEDs are driven by Fadecandy boards, which can be c
     
     <item>
       <title></title>
-      <link>https://vividtheory.github.io/work/infinityofthree/</link>
+      <link>//vividtheory.github.io/work/infinityofthree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vividtheory.github.io/work/infinityofthree/</guid>
+      <guid>//vividtheory.github.io/work/infinityofthree/</guid>
       <description>&lt;p&gt;Exhibited at &lt;a href=&#34;http://www.grosselanterne.com/&#34;&gt;La Grosse Lanterne&lt;/a&gt; and &lt;a href=&#34;http://upfest.ca/&#34;&gt;Upfest&lt;/a&gt; in 2015, this installation was a collaboration with the &lt;a href=&#34;http://www.provides.space&#34;&gt;Provides.&lt;/a&gt; collective.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;img/installations/infinityofthree/lg/infinityofthree_fulltest.png&#34; alt=&#34;Infinity of Three Test&#34; /&gt;&lt;/p&gt;
@@ -112,10 +112,10 @@ use these video frames to render patterns on the LEDs.  Unfortunately, it was di
     
     <item>
       <title></title>
-      <link>https://vividtheory.github.io/work/soundcastle/</link>
+      <link>//vividtheory.github.io/work/soundcastle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vividtheory.github.io/work/soundcastle/</guid>
+      <guid>//vividtheory.github.io/work/soundcastle/</guid>
       <description>&lt;p&gt;&amp;ldquo;Sculpting sounds with your hands in the sand.&amp;rdquo;  Soundcastle was built for the 2016 Ottawa Maker Faire. It turned out to be quite a hit&amp;hellip; especially with kids.
 &lt;img src=&#34;img/installations/soundcastle/lg/soundcastle_fullshot.jpg&#34; alt=&#34;Sound Castle&#34; /&gt;&lt;/p&gt;
 

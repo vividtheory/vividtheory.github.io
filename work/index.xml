@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Vivid Theory</title>
-    <link>https://vividtheory.github.io/work/</link>
+    <link>//vividtheory.github.io/work/</link>
     <description>Recent content in Works on Vivid Theory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://vividtheory.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//vividtheory.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>https://vividtheory.github.io/work/VLT/</link>
+      <link>//vividtheory.github.io/work/VLT/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vividtheory.github.io/work/VLT/</guid>
+      <guid>//vividtheory.github.io/work/VLT/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/installations/VLT/lg/VLT_polefolder_canopy2.jpg&#34; alt=&#34;Vivid Light Tubes&#34; /&gt;
 Underground parties, DJ nights, Nature Nocturne&amp;hellip; the vivid light tubes are becoming a familiar sight around some circles of the Ottawa nightlife scene.  The combination of programmable LEDs, a dazzling cover material, and unique programming produce some captivating effects.  Just check out some of these &lt;a href=&#34;https://vimeo.com/user51003445/videos&#34;&gt;videos&lt;/a&gt;.
 &lt;img src=&#34;img/installations/VLT/fullTest_small.gif&#34; alt=&#34;Vivid Light Tubes&#34; /&gt;&lt;/p&gt;
@@ -29,10 +29,10 @@ The individually addressable LEDs are driven by Fadecandy boards, which can be c
     
     <item>
       <title></title>
-      <link>https://vividtheory.github.io/work/infinityofthree/</link>
+      <link>//vividtheory.github.io/work/infinityofthree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vividtheory.github.io/work/infinityofthree/</guid>
+      <guid>//vividtheory.github.io/work/infinityofthree/</guid>
       <description>&lt;p&gt;Exhibited at &lt;a href=&#34;http://www.grosselanterne.com/&#34;&gt;La Grosse Lanterne&lt;/a&gt; and &lt;a href=&#34;http://upfest.ca/&#34;&gt;Upfest&lt;/a&gt; in 2015, this installation was a collaboration with the &lt;a href=&#34;http://www.provides.space&#34;&gt;Provides.&lt;/a&gt; collective.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;img/installations/infinityofthree/lg/infinityofthree_fulltest.png&#34; alt=&#34;Infinity of Three Test&#34; /&gt;&lt;/p&gt;
@@ -52,10 +52,10 @@ use these video frames to render patterns on the LEDs.  Unfortunately, it was di
     
     <item>
       <title></title>
-      <link>https://vividtheory.github.io/work/soundcastle/</link>
+      <link>//vividtheory.github.io/work/soundcastle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vividtheory.github.io/work/soundcastle/</guid>
+      <guid>//vividtheory.github.io/work/soundcastle/</guid>
       <description>&lt;p&gt;&amp;ldquo;Sculpting sounds with your hands in the sand.&amp;rdquo;  Soundcastle was built for the 2016 Ottawa Maker Faire. It turned out to be quite a hit&amp;hellip; especially with kids.
 &lt;img src=&#34;img/installations/soundcastle/lg/soundcastle_fullshot.jpg&#34; alt=&#34;Sound Castle&#34; /&gt;&lt;/p&gt;
 
