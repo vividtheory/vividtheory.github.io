@@ -89,6 +89,40 @@ The individually addressable LEDs are driven by Fadecandy boards, which can be c
     
     <item>
       <title></title>
+      <link>https://vividtheory.github.io/work/impossible_illumination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vividtheory.github.io/work/impossible_illumination/</guid>
+      <description>&lt;p&gt;Exhibited at the &lt;a href=&#34;http://glowfairfestival.ca/&#34;&gt;2016 Ottawa Glowfair&lt;/a&gt;, Impossible Illumination is a physical implementation of the famous &lt;a href=&#34;https://en.wikipedia.org/wiki/Penrose_triangle&#34;&gt;Penrose Triangle&lt;/a&gt; illusion.  If the segments have the same colour, the structure just looks like a plain triangle.  However, as the segments fade to different colours, it begins to look as though the three segments join at &amp;ldquo;impossible&amp;rdquo; 90 degree angles in 3D.  Unlike a 3D sculpture, here the illusion is created by colouring the different segments using programmable LEDs.  One might say that the physical structure is 2D, but the technology allows the illusion to extend into another dimension.
+&lt;img src=&#34;https://vividtheory.github.io/img/installations/impossible_illumination/tent.jpg&#34; alt=&#34;Impossible Illumination under a tent&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The framing is created from stainless steel tracking, and LEDs are adhered to the frame boundaries.  The front/back faces are covered with a light-diffusing material to enable viewing from either direction. The use of steel tracking for the frame makes it light-weight and easy to transport.&lt;/p&gt;
+
+&lt;p&gt;The LEDs are controlled by two Fadecandy boards connected to a laptop.  The LED patterns are rendered using a custom C++ application developed using OpenFrameworks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://vividtheory.github.io/work/impossibleillumination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vividtheory.github.io/work/impossibleillumination/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/installations/VLT/lg/VLT_polefolder_canopy2.jpg&#34; alt=&#34;Vivid Light Tubes&#34; /&gt;
+Underground parties, DJ nights, Nature Nocturne&amp;hellip; the vivid light tubes are becoming a familiar sight around some circles of the Ottawa nightlife scene.  The combination of programmable LEDs, a dazzling cover material, and unique programming produce some captivating effects.  Just check out some of these &lt;a href=&#34;https://vimeo.com/user51003445/videos&#34;&gt;videos&lt;/a&gt;.
+&lt;img src=&#34;img/installations/VLT/fullTest_small.gif&#34; alt=&#34;Vivid Light Tubes&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Physically, the vivid light tubes are not complicated.  Strips of programmable LED are enclosed in cylinders of Rowlux illusion film.  This film has a pattern refractive index which creates a unique light diffusion effect.&lt;br /&gt;
+&lt;img src=&#34;img/installations/VLT/lg/VLT_repair.jpg&#34; alt=&#34;inside a Vivid Light Tube&#34; /&gt;
+The individually addressable LEDs are driven by Fadecandy boards, which can be connected to different controllers (usually a laptop or raspberry pi&amp;hellip; depends on the application).&lt;/p&gt;
+
+&lt;p&gt;As is standard practice for Vivid Theory, the light tubes are almost always controlled by custom software.  While there exist many excellent applications for controlling LED installations,  doing things from scratch has a unique appeal for theorists and coders. For live VJing (e.g. at DJ nights), the current incarnation of software is being developed in C++ using OpenFrameworks. This provides almost limitless possibilites for interaction and engagement with the art (sound reactivity, Xbox kinect, leapmotion&amp;hellip;).
+&lt;img src=&#34;img/installations/VLT/DSC_0770.jpeg&#34; alt=&#34;Vivid light tube control&#34; /&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://vividtheory.github.io/work/infinityofthree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
